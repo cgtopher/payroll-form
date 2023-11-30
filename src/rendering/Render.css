@@ -1,0 +1,13 @@
+.render {
+    width: 100%;
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+.ant-form-item-required span {
+    display: none;
+}
+
+.ant-form-item-required:after {
+    display: none;
+}
